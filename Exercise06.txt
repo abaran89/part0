@@ -1,0 +1,7 @@
+title 0.6
+
+
+browser->server: HTTP POST https://fullstack-exampleapp.herokuapp.com/data.json
+server-->browser: [{ content: "POZDRAWIAM CIE SERDECZNIE", date: "2020-04-16T07:55:42.122Z" }, ...]
+
+
